@@ -1,0 +1,66 @@
+h1 {
+    font-family: Dongle;
+}
+
+#menu {
+    display: inline-block;
+    position: fixed;
+}
+.title {
+    text-align: left;
+    font-size: 80px;
+    display: inline-block;
+}
+
+#title {
+    padding: 10px 20px; 
+}
+
+#P {
+    color: hsl(0, 75%, 70%);
+}
+
+#R {
+    color: hsl(22, 75%, 62%);
+}
+
+#I {
+    color: hsl(35, 90%, 60%);
+}
+
+#D {
+    color: hsl(51, 100%, 74%);
+}
+
+#E {
+    color: hsl(78, 100%, 67%);
+}
+
+#V {
+    color: hsl(138, 91%, 65%);
+}
+
+#E2 {
+    color: hsl(194, 87%, 59%);
+}
+
+#R2 {
+    color: hsl(224, 91%, 56%);
+}
+
+#S {
+    color: hsl(240, 74%, 59%);
+}
+
+#E3 {
+    color: hsl(260, 72%, 55%);
+}
+
+.menuBar {
+    display: inline-block;
+    font-family: 'Playfair Display';
+}
+
+#menuBar {
+    float: right;
+}
