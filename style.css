@@ -4,11 +4,6 @@ body {
     margin: 0;
 }
 
-h2 {
-    font-family: 'Montserrat', sans-serif;
-    color: aliceblue;
-}
-
 .container {
     display: flex;
     /* flex-wrap: wrap; */
@@ -34,9 +29,16 @@ h2 {
 
 #content {
     background: linear-gradient(45deg, rgb(11, 18, 76), rgb(13, 85, 94));
-    padding: 5px 20%;
+    padding: 5px 18%;
 }
 
 #logo {
     transform: rotate(-10deg);
+}
+
+#introText {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+    margin: 5% 1%;
 }
